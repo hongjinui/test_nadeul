@@ -15,7 +15,7 @@ import java.util.Properties;
 public class ConsumerDemoGroups {
 
     public static void main(String[] args) {
-
+        // github test
         Logger logger = LoggerFactory.getLogger(ConsumerDemoGroups.class.getName());
 
         String bootstrapServer  = "127.0.0.1:9092";

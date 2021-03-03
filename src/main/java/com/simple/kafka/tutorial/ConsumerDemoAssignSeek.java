@@ -17,6 +17,7 @@ public class ConsumerDemoAssignSeek {
 
     public static void main(String[] args) {
         // github test
+        // github test
         Logger logger = LoggerFactory.getLogger(ConsumerDemoAssignSeek.class.getName());
 
         String bootstrapServer  = "127.0.0.1:9092";
