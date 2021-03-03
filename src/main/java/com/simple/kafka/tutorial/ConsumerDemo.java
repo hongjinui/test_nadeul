@@ -14,7 +14,7 @@ public class ConsumerDemo {
     public static void main(String[] args) {
         // 주석추가가다다다!!!
         // testest
-        Logger logger = LoggerFactory.getLogger(ConsumerDemo.class.getName());
+        Logger logger = LoggerFactory.getLogger(ConsumerDemo.class.getName())
 
         String bootstrapServer  = "127.0.0.1:9092";
         String topic = "first_topic";
