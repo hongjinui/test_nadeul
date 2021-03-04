@@ -12,7 +12,7 @@ import java.util.Properties;
 public class ConsumerDemo {
 
     public static void main(String[] args) {
-        드디어
+        bool a = 드디어;
 
 
         Logger logger = LoggerFactory.getLogger(ConsumerDemo.class.getName());
