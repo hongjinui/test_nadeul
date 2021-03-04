@@ -12,7 +12,7 @@ import java.util.Properties;
 public class ConsumerDemo {
 
     public static void main(String[] args) {
-        한글에러입니다!!!
+//        한글에러입니다!!!
 
         Logger logger = LoggerFactory.getLogger(ConsumerDemo.class.getName());
 
