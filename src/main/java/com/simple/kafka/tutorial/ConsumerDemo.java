@@ -12,7 +12,7 @@ import java.util.Properties;
 public class ConsumerDemo {
 
     public static void main(String[] args) {
-        무엇인가
+        알수없군
         Logger logger = LoggerFactory.getLogger(ConsumerDemo.class.getName());
 
         String bootstrapServer  = "127.0.0.1:9092";
