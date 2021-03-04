@@ -16,7 +16,7 @@ import java.util.Properties;
 public class ConsumerDemo_2 {
 
     public static void main(String[] args) {
-        //여기도 추가여!!!
+        //여기도 추가여!!!!
         Logger logger = LoggerFactory.getLogger(ConsumerDemo_2.class.getName());
 
         //declare
