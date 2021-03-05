@@ -13,7 +13,7 @@ public class ConsumerDemo {
 
     public static void main(String[] args) {
         Logger logger = LoggerFactory.getLogger(ConsumerDemo.class.getName());
-        //뭐지
+        //뭐
         String bootstrapServer  = "127.0.0.1:9092";
         String topic = "first_topic";
         String groupId = "my-first-application";
